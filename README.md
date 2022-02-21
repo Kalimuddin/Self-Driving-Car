@@ -21,7 +21,7 @@
 
 ## Modelling :
 
-- Deep-learning model : Deep Learning for regression : CNN, CNN+RNN :-
+- Deep-learning model : Deep Learning for regression :
     - Case-1 : not using the sequence information : image -> predict the angle (simple CNN)
     - Case-2 : images + sequence -> angle + sequence (CNN+RNN)
 
