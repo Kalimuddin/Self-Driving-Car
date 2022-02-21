@@ -8,8 +8,8 @@
 - Required Data available at : https://drive.google.com/drive/folders/1JviaSKSBVP4z22Y5gyfwjRz-UH2C0d1q?usp=sharing
 - 
 - Split the dataset : Train vs Test :-
-    - 80%:20%
-    - 25min:5min
+    - 80% : 20%
+    - 25min : 5min
 - Sequence of images -> Sequence of Steering wheel angle (regression problem)
 
 ## EDA :
@@ -23,7 +23,7 @@
 
 - Deep-learning model : Deep Learning for regression :
     - Case-1 : not using the sequence information : image -> predict the angle (simple CNN)
-    - Case-2 : images + sequence -> angle + sequence (CNN+RNN)
+    - Case-2 : images + sequence -> angle + sequence (CNN-RNN)
 
 - Batch load the dataset :- Refer "data.txt", driving_data.py
 
