@@ -6,7 +6,7 @@
 - Primary Objectives are to learn the Deep Learning techniques and by applying them Predict the Sequence of Steering wheel angles.
 - We choosed end to end model in which we predict Steering wheel angle for each single images. And for visualizing the output OpenCV is used.
 - Required Data available at : https://drive.google.com/drive/folders/1JviaSKSBVP4z22Y5gyfwjRz-UH2C0d1q?usp=sharing
-- 
+
 - Split the dataset : Train vs Test :-
     - 80% : 20%
     - 25min : 5min
