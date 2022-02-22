@@ -29,11 +29,15 @@
     - Case-1 : not using the sequence information : image -> predict the angle (simple CNN)
     - Case-2 : images + sequence -> angle + sequence (CNN-RNN)
 
-- Batch load the dataset :- Refer driving_data.py, "data.txt"
+- Batch load the dataset :
+    - Refer driving_data.py, "data.txt"
 
-- NVIDIA’s end to end CNN model :- Refer model.py
+- NVIDIA’s end to end CNN model : 
+    - Refer model.py
  
-- Train the model :- Refer train.py
+- Train the model :
+    - Refer train.py
+    - It takes few hours to successfully run the code.
 
 - After training the model what we got Refer "cmd_output" file.
 
