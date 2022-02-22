@@ -11,6 +11,10 @@
     - 80% : 20%
     - 25min : 5min
 - Sequence of images -> Sequence of Steering wheel angle (regression problem)
+- Dash-cam images and steering angles :
+
+![1](https://user-images.githubusercontent.com/54996809/155065548-5a7af706-9813-4381-b59d-bc82f10ba833.png)
+
 
 ## EDA :
 
@@ -30,6 +34,8 @@
 - NVIDIA’s end to end CNN model :- Refer model.py
  
 - Train the model :- Refer train.py
+- 
+- After training the model what we got refer "cmd_output"
 
 - Test and visualize the output : Refer run_dataset.py
 
