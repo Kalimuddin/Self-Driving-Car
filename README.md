@@ -34,7 +34,7 @@
 - NVIDIA’s end to end CNN model :- Refer model.py
  
 - Train the model :- Refer train.py
-- 
+
 - After training the model what we got refer "cmd_output"
 
 - Test and visualize the output : Refer run_dataset.py
