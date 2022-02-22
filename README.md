@@ -11,7 +11,7 @@
     - 80% : 20%
     - 25min : 5min
 - Sequence of images -> Sequence of Steering wheel angle (regression problem)
-- Dash-cam images and steering angles :
+- Dash-cam images :
 
 ![1](https://user-images.githubusercontent.com/54996809/155065548-5a7af706-9813-4381-b59d-bc82f10ba833.png)
 
@@ -44,6 +44,7 @@
 
 - Test and visualize the output : Refer run_dataset.py
 
+https://user-images.githubusercontent.com/54996809/155125297-e0ecd362-abc8-4794-8ccf-9d7dae3744d1.mp4
 
 
 
