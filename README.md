@@ -13,7 +13,8 @@
 - Sequence of images -> Sequence of Steering wheel angle (regression problem)
 - Dash-cam images :
 
-![1](https://user-images.githubusercontent.com/54996809/155065548-5a7af706-9813-4381-b59d-bc82f10ba833.png)
+![1](https://user-images.githubusercontent.com/54996809/155126005-0c5557c2-54a7-4d70-8010-00ab4e14b4f0.png)
+
 
 
 ## EDA :
@@ -43,8 +44,6 @@
 - After training the model what we got Refer "cmd_output" file.
 
 - Test and visualize the output : Refer run_dataset.py
-
-https://user-images.githubusercontent.com/54996809/155125297-e0ecd362-abc8-4794-8ccf-9d7dae3744d1.mp4
 
 
 
