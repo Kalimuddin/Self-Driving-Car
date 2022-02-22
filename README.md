@@ -35,7 +35,7 @@
  
 - Train the model :- Refer train.py
 
-- After training the model what we got refer "cmd_output"
+- After training the model what we got refer "cmd_output" file.
 
 - Test and visualize the output : Refer run_dataset.py
 
