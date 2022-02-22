@@ -45,7 +45,6 @@
 
 - Test and visualize the output : Refer run_dataset.py
 
-![vtest_AdobeCreativeCloudExpress (1)](https://user-images.githubusercontent.com/54996809/155126991-e763ca90-7744-4625-b299-8f76ca5780b5.gif)
 
 
 
