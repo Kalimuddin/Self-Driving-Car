@@ -32,8 +32,9 @@
 - Batch load the dataset :
     - Refer driving_data.py, "data.txt"
 
-- NVIDIA’s end to end CNN model : 
+- End to End CNN model : 
     - Refer model.py
+    - We implement Network Architecture already designed from nvidia Self-Driving Cars model.
  
 - Train the model :
     - Refer train.py
