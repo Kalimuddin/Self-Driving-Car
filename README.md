@@ -45,7 +45,14 @@
 
 - Test and visualize the output : Refer run_dataset.py
 
-https://user-images.githubusercontent.com/54996809/155316937-f4d87c73-dd61-4c01-8395-3fdad18413cd.mp4
+
+![Untitled (1)](https://user-images.githubusercontent.com/54996809/155318296-2bd5caf2-b76c-4353-8138-0f1a4ecc4d7d.gif)
+
+
+
+
+https://user-images.githubusercontent.com/54996809/155318015-494b2649-d0b5-45aa-8992-edac45b62168.mp4
+
 
 
 
