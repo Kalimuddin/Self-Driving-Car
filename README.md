@@ -50,11 +50,10 @@
 
 
 
-
 https://user-images.githubusercontent.com/54996809/155318015-494b2649-d0b5-45aa-8992-edac45b62168.mp4
 
 
-
+![Untitled (2)](https://user-images.githubusercontent.com/54996809/155318528-f2477308-a138-4f4c-98a6-56e4a180aceb.gif)
 
 
 
