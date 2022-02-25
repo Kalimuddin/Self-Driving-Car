@@ -15,16 +15,13 @@
 
 ![1](https://user-images.githubusercontent.com/54996809/155126005-0c5557c2-54a7-4d70-8010-00ab4e14b4f0.png)
 
-
-
 ## EDA :
 
 - read images and steering angles from driving_dataset folder : train_y, test_y
 - plotting : we seen, train_y and test_y are not fully overlap, some difference in train & test.
 - Most of the case car go straight thats why we see that angle (radian) are around zero.
 
-![2](https://user-images.githubusercontent.com/54996809/155775196-e8b5b437-f956-44ce-879e-616ff16c0424.png)
-
+![2](https://user-images.githubusercontent.com/54996809/155775385-95c5f213-cef5-4ba2-b481-6f3968dc5694.png)
 
 ## Modelling :
 
