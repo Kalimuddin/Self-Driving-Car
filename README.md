@@ -20,8 +20,8 @@
 ## EDA :
 
 - read images and steering angles from driving_dataset folder : train_y, test_y
-- plotting : we seen, train_y and test_y are not fully overlap, some difference in train & test
-- Most of the case car go straight thats why we see that angle (radian) are around zero
+- plotting : we seen, train_y and test_y are not fully overlap, some difference in train & test.
+- Most of the case car go straight thats why we see that angle (radian) are around zero.
 
 ![2](https://user-images.githubusercontent.com/54996809/154904867-d2027431-7a66-4de0-9892-6536d95c9fdf.png)
 
@@ -31,20 +31,20 @@
     - Case-1 : not using the sequence information : image -> predict the angle (simple CNN)
     - Case-2 : images + sequence -> angle + sequence (CNN-RNN)
 
-- Batch load the dataset :
-    - Refer driving_data.py, "data.txt"
+- Preparing the dataset : 
+    - Refer : "driving_data.py"
 
 - End to End CNN model : 
-    - Refer model.py
+    - Refer "model.py"
     - We implement Network Architecture already designed from nvidia Self-Driving Cars model.
  
 - Train the model :
-    - Refer train.py
-    - It takes few hours to successfully run the code.
+    - It takes few hours to successfully run the code for low end cpu/gpu.
+    - After training the model, model is saved in "save" folder as "model.ckpt"
 
-- After training the model what we got Refer "cmd_output" file.
+- Test and visualize the output :
 
-- Test and visualize the output : Refer run_dataset.py
+
 
 
 
