@@ -40,7 +40,7 @@
     - It takes few hours to successfully run the code for low end cpu/gpu.
     - After training the model, model is saved in "save" folder as "model.ckpt"
 
-- Test and visualize the output :
+## Test and visualize the output :
 
 
 
