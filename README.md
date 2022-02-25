@@ -23,7 +23,8 @@
 - plotting : we seen, train_y and test_y are not fully overlap, some difference in train & test.
 - Most of the case car go straight thats why we see that angle (radian) are around zero.
 
-![2](https://user-images.githubusercontent.com/54996809/154904867-d2027431-7a66-4de0-9892-6536d95c9fdf.png)
+![2](https://user-images.githubusercontent.com/54996809/155775196-e8b5b437-f956-44ce-879e-616ff16c0424.png)
+
 
 ## Modelling :
 
