@@ -41,7 +41,9 @@
     - After training the model, model is saved in "save" folder as "model.ckpt"
 
 ## Test and visualize the output :
+- The Steering wheel is rotatating as per predicted Steering wheel angle (in radian) :
 
-![Untitled design (1)](https://user-images.githubusercontent.com/54996809/155831790-a02f2c1c-3e5a-433c-8d08-7958e6965204.gif)
+https://user-images.githubusercontent.com/54996809/155833678-70ca66a7-a57d-41ae-8c01-80a257e09984.mp4
+
 
 
