@@ -43,8 +43,6 @@
 ## Test and visualize the output :
 - The Steering wheel is rotatating as per predicted Steering wheel angle (in radian) :
 
-https://user-images.githubusercontent.com/54996809/155834129-48ced232-7714-4a22-b6bc-3d4c60f9bc41.mp4
-
 https://user-images.githubusercontent.com/54996809/155835330-fff1d307-6fa8-4224-8da1-623cfc591f3f.mp4
 
 
