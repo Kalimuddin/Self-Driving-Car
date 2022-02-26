@@ -42,7 +42,6 @@
 
 ## Test and visualize the output :
 
-![Untitled design](https://user-images.githubusercontent.com/54996809/155831631-f0ac9446-e67e-4230-abc8-b3a4798ef504.gif)
-
+![Untitled design (1)](https://user-images.githubusercontent.com/54996809/155831790-a02f2c1c-3e5a-433c-8d08-7958e6965204.gif)
 
 
