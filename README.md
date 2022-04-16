@@ -1,4 +1,4 @@
-# Self-Driving-Car
+# Steering wheel angle prediction using Deep Learning
 
 ## Problem Definition and Data Requirements :
 
